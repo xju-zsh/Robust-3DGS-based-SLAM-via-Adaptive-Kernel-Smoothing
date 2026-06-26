@@ -4,7 +4,7 @@
   <p align="center">
     Shouhe Zhang, Dayong Ren∗, WEN JIE LI, Piaopiao Yu, Sensen Song∗,Kaikai Shao5, and Yurong Qian
   </p>
-## Installation
+### Installation
 
 Please follow the instructions below to install the repo and dependencies.
 
