@@ -30,19 +30,19 @@ pip install iopath-0.1.5.tar.gz
 pip install ./pytorch3d-0.7.8+pt2.3.1cu118-cp310-cp310-linux_x86_64.whl
 ```
 
-### Run
+## Run
 
-# Replica
+Replica
 ```bash
 python scripts/slam.py configs/replica/slam.py
 ```
 
-# TUM-RGBD
+TUM-RGBD
 ```bash
 python scripts/slam.py configs/tum/slam.py
 ```
 
-# ScanNet
+ScanNet
 ```bash
 python scripts/slam.py configs/scannet/slam.py
 ```
@@ -50,5 +50,5 @@ python scripts/slam.py configs/scannet/slam.py
 
 ## Acknowledgement
 
-Our codebase builds on the code in [3D Gaussian Splating](https://github.com/graphdeco-inria/gaussian-splatting)
+Our codebase builds on the code in [3D Gaussian Splating](https://github.com/graphdeco-inria/gaussian-splatting),
 [SplaTAM](https://github.com/spla-tam/SplaTAM.git)
