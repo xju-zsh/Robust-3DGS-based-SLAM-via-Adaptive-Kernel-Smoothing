@@ -7,12 +7,10 @@
 
   
 ## Installation
-
 Please follow the instructions below to install the repo and dependencies.
-
+```bash
 git clone https://github.com/xju-zsh/Robust-3DGS-based-SLAM-via-Adaptive-Kernel-Smoothing.git
 cd Robust-3DGS-based-SLAM-via-Adaptive-Kernel-Smoothing
-
 
 # Create conda environment
 conda create -n rslam python=3.10
@@ -30,3 +28,4 @@ python setup.py install
 cd pytorch3D
 pip install iopath-0.1.5.tar.gz
 pip install ./pytorch3d-0.7.8+pt2.3.1cu118-cp310-cp310-linux_x86_64.whl
+```
