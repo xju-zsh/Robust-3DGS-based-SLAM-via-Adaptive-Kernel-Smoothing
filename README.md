@@ -4,15 +4,16 @@
   <p align="center">
     Shouhe Zhang, Dayong Ren∗, WEN JIE LI, Piaopiao Yu, Sensen Song∗,Kaikai Shao5, and Yurong Qian
   </p>
-### Installation
+
+  
+## Installation
 
 Please follow the instructions below to install the repo and dependencies.
 
-```bash
 git clone https://github.com/xju-zsh/Robust-3DGS-based-SLAM-via-Adaptive-Kernel-Smoothing.git
 cd Robust-3DGS-based-SLAM-via-Adaptive-Kernel-Smoothing
 
-```bash
+
 # Create conda environment
 conda create -n rslam python=3.10
 conda activate rslam
