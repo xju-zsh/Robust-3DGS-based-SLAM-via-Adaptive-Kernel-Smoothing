@@ -4,3 +4,10 @@
   <p align="center">
     Shouhe Zhang1, Dayong Ren∗, WEN JIE LI, Piaopiao Yu, Sensen Song∗,Kaikai Shao5, and Yurong Qian
   </p>
+## Installation
+
+Please follow the instructions below to install the repo and dependencies.
+
+```bash
+git clone https://github.com/lumigs-slam/LumiGS-SLAM.git
+cd LumiGS-SLAM
